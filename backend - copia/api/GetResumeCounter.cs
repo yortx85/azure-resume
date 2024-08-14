@@ -33,6 +33,5 @@ namespace Company.Function
                 Content = new StringContent(jsonToReturn, Encoding.UTF8, "application/json")
             };
         }
-        
     }
 }
