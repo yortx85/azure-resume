@@ -6,6 +6,8 @@ Mi propio curriculum en Azure, siguiendo el [videotutorial de ACG.]()
 - La carpeta Frontend contiene la página web.
 - main.js contiene el código del contador de visitantes.
 
-## Siguientes pasos
+## Siguiente pasos
 
 - Creación en Azure de Cosmos DB.
+- Creación base de datos para alojar el contador.
+- Creación Azure Function en local y probado correcto funcionamiento de la web en local.
