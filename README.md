@@ -5,3 +5,7 @@ Mi propio curriculum en Azure, siguiendo el [videotutorial de ACG.]()
 
 - La carpeta Frontend contiene la página web.
 - main.js contiene el código del contador de visitantes.
+
+## Siguientes pasos
+
+- Creación en Azure de Cosmos DB.
