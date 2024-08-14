@@ -10,4 +10,4 @@ Mi propio curriculum en Azure, siguiendo el [videotutorial de ACG.]()
 
 - Creación en Azure de Cosmos DB.
 - Creación base de datos para alojar el contador.
-- Creación Azure Function en local y probado correcto funcionamiento de la web en local.
+- Creación Azure Function en local, conexión a DB y probado correcto funcionamiento de la web en local.
